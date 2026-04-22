@@ -16,11 +16,13 @@ Styling: Tailwind CSS (Shared Design Token Architecture)
 Package Management: NPM Workspaces
 
 ## 🏗️ Project Structure
+
+```text
 ├── apps
-│   └── web          # Next.js Dashboard Application
+│   └── web               # Next.js Dashboard Application
 ├── packages
-│   ├── ui           # Shared React Component Library (Generic Table)
-│   ├── tsconfig     # Centralized TypeScript Configurations
-│   └── tailwind-config # Shared Design Tokens & Theme Config
+│   ├── ui                # Shared React Component Library (Generic Table)
+│   ├── tsconfig          # Centralized TypeScript Configurations
+│   └── tailwind-config   # Shared Design Tokens & Theme Config
 
 
