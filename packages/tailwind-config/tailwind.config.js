@@ -6,14 +6,14 @@ module.exports = {
     extend: {
       colors: {
         brand: {
-          primary: "#3b82f6", // Modern Blue
-          secondary: "#10b981", // Success Green
-          accent: "#f59e0b", // Warning Orange
+          primary: "#3b82f6",
+          secondary: "#10b981",
+          accent: "#f59e0b",
         },
         surface: {
-          default: "#ffffff", // Base background
-          subtle: "#f9fafb", // Light gray for cards
-          elevated: "#f3f4f6", // Slightly darker for sidebars
+          default: "#ffffff",
+          subtle: "#f9fafb",
+          elevated: "#f3f4f6",
         },
         text: {
           primary: "#111827",
